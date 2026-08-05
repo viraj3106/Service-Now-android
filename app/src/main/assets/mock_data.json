@@ -1,0 +1,211 @@
+{
+  "serviceCategories": [
+    {
+      "id": "plumbing",
+      "name": "Plumbing",
+      "icon": "🔧"
+    },
+    {
+      "id": "electrician",
+      "name": "Electrician",
+      "icon": "⚡"
+    },
+    {
+      "id": "ac_repair",
+      "name": "AC Repair",
+      "icon": "❄️"
+    },
+    {
+      "id": "carpentry",
+      "name": "Carpentry",
+      "icon": "🪚"
+    },
+    {
+      "id": "cleaning",
+      "name": "Cleaning",
+      "icon": "🧹"
+    },
+    {
+      "id": "painting",
+      "name": "Painting",
+      "icon": "🎨"
+    }
+  ],
+  "serviceProviders": [
+    {
+      "id": "prov_1",
+      "name": "Ramesh Kumar",
+      "category": "plumbing",
+      "city": "Chennai",
+      "rating": 4.8,
+      "reviewCount": 124,
+      "priceRange": "₹200 - ₹500",
+      "availability": "Available Today",
+      "photoUrl": "https://images.unsplash.com/photo-1540569014015-19a7be504e3a?w=150&auto=format&fit=crop&q=60",
+      "reviews": [
+        {
+          "user": "Anand S.",
+          "rating": 5.0,
+          "comment": "Very professional and arrived on time. Solved the kitchen pipe leak quickly!"
+        },
+        {
+          "user": "Meera R.",
+          "rating": 4.5,
+          "comment": "Good work. He cleaned up the workspace after repairing the tap."
+        }
+      ]
+    },
+    {
+      "id": "prov_2",
+      "name": "Karthik Raja",
+      "category": "plumbing",
+      "city": "Coimbatore",
+      "rating": 4.2,
+      "reviewCount": 42,
+      "priceRange": "₹150 - ₹400",
+      "availability": "Available Tomorrow",
+      "photoUrl": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=150&auto=format&fit=crop&q=60",
+      "reviews": [
+        {
+          "user": "Vignesh T.",
+          "rating": 4.0,
+          "comment": "Decent service. Fixed the bathroom flush issue nicely."
+        }
+      ]
+    },
+    {
+      "id": "prov_3",
+      "name": "Selvam A.",
+      "category": "electrician",
+      "city": "Madurai",
+      "rating": 4.9,
+      "reviewCount": 98,
+      "priceRange": "₹250 - ₹600",
+      "availability": "Available Today",
+      "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=60",
+      "reviews": [
+        {
+          "user": "Bala M.",
+          "rating": 5.0,
+          "comment": "Excellent troubleshooting of short circuit issues. Recommended!"
+        }
+      ]
+    },
+    {
+      "id": "prov_4",
+      "name": "Arun Prasath",
+      "category": "electrician",
+      "city": "Chennai",
+      "rating": 4.6,
+      "reviewCount": 76,
+      "priceRange": "₹200 - ₹500",
+      "availability": "Available Today",
+      "photoUrl": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?w=150&auto=format&fit=crop&q=60",
+      "reviews": [
+        {
+          "user": "Vijay L.",
+          "rating": 4.5,
+          "comment": "Installed the new ceiling fans efficiently."
+        }
+      ]
+    },
+    {
+      "id": "prov_5",
+      "name": "Muthu Swamy",
+      "category": "ac_repair",
+      "city": "Trichy",
+      "rating": 4.5,
+      "reviewCount": 35,
+      "priceRange": "₹300 - ₹800",
+      "availability": "Available Today",
+      "photoUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=60",
+      "reviews": [
+        {
+          "user": "Santhosh P.",
+          "rating": 4.5,
+          "comment": "Cleaned the AC filters and resolved the gas leak issue successfully."
+        }
+      ]
+    },
+    {
+      "id": "prov_6",
+      "name": "Dinesh Kumar",
+      "category": "ac_repair",
+      "city": "Coimbatore",
+      "rating": 4.7,
+      "reviewCount": 89,
+      "priceRange": "₹350 - ₹900",
+      "availability": "Available Today",
+      "photoUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150&auto=format&fit=crop&q=60",
+      "reviews": [
+        {
+          "user": "Priya K.",
+          "rating": 5.0,
+          "comment": "Awesome service. My AC works like brand new now!"
+        }
+      ]
+    },
+    {
+      "id": "prov_7",
+      "name": "Manikandan P.",
+      "category": "carpentry",
+      "city": "Chennai",
+      "rating": 4.4,
+      "reviewCount": 54,
+      "priceRange": "₹300 - ₹700",
+      "availability": "Available Today",
+      "photoUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=60",
+      "reviews": [
+        {
+          "user": "Deepak R.",
+          "rating": 4.0,
+          "comment": "Repaired the wooden door and cabinets well."
+        }
+      ]
+    },
+    {
+      "id": "prov_8",
+      "name": "Rangarajan S.",
+      "category": "cleaning",
+      "city": "Madurai",
+      "rating": 4.7,
+      "reviewCount": 63,
+      "priceRange": "₹500 - ₹1200",
+      "availability": "Available Tomorrow",
+      "photoUrl": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150&auto=format&fit=crop&q=60",
+      "reviews": [
+        {
+          "user": "Ramya S.",
+          "rating": 5.0,
+          "comment": "Thoroughly deep cleaned the entire kitchen. Sparkling clean!"
+        }
+      ]
+    },
+    {
+      "id": "prov_9",
+      "name": "Siva Balan",
+      "category": "painting",
+      "city": "Trichy",
+      "rating": 4.3,
+      "reviewCount": 28,
+      "priceRange": "₹1000 - ₹5000",
+      "availability": "Available in 3 Days",
+      "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=60",
+      "reviews": [
+        {
+          "user": "Ganesan T.",
+          "rating": 4.5,
+          "comment": "Great wall painting and nice selection suggestion."
+        }
+      ]
+    }
+  ],
+  "bookings": [],
+  "user": {
+    "id": "user_hackathon_1",
+    "name": "Rajesh Kumar",
+    "phone": "+91 98765 43210",
+    "subscriptionTier": "free",
+    "bookingsThisMonth": 0
+  }
+}
